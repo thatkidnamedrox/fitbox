@@ -1,0 +1,2 @@
+class ExerciseMusclesController < ApplicationController
+end

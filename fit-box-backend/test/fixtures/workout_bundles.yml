@@ -1,0 +1,9 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  workout_id: 1
+  bundle_id: 1
+
+two:
+  workout_id: 1
+  bundle_id: 1

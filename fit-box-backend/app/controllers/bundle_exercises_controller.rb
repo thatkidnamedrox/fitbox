@@ -1,0 +1,2 @@
+class BundleExercisesController < ApplicationController
+end
